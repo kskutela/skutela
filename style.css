@@ -1,0 +1,32 @@
+a:link, a:visited 	{
+			color: red;
+			text-decoration: none;
+			background-color: grey;
+			border: 1px double black;
+			border-radius: 5px;
+			text-align: right;
+			display: inline-block;
+			width: 200px;
+			text-align: left;
+					}
+							
+a:active 	{
+		color: green;
+		text-decoration: none;
+		background-color: blue;
+		border: 1px double black;
+		border-radius: 5px;
+		text-align: right;
+		width: 70%;
+			 }
+			
+			
+a:hover 	{
+		color: blue;
+		text-decoration: none;
+		background-color: grey;
+		border: 1px double black;
+		border-radius: 5px;
+		text-align: right;
+		width: 70%;
+			}
